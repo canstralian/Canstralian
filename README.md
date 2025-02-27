@@ -1,7 +1,10 @@
 ### Welcome to My Corner of Code 👾
 
+![CI](https://github.com/canstralian/Canstralian/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://codecov.io/gh/canstralian/Canstralian/branch/main/graph/badge.svg)
 ![License](https://img.shields.io/github/license/canstralian/Canstralian)
 ![Last Commit](https://img.shields.io/github/last-commit/canstralian/Canstralian)
+![Version](https://img.shields.io/github/v/release/canstralian/Canstralian)
 
 I’m Canstralian, a dedicated developer and cybersecurity enthusiast focused on
 
