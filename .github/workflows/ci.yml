@@ -17,17 +17,17 @@ jobs:
     steps:
       # Checkout the repository code
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         
       # Set up Python environment
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       # Install dependencies and cache them
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
@@ -54,7 +54,7 @@ jobs:
       # Upload code coverage report to Codecov
       - name: Upload coverage to Codecov
         if: success()  # Only upload if the tests are successful
-        uses: codecov/codecov-action@v2
+        uses: codecov/codecov-action@v4
 
   # Linting job for code quality
   lint:
@@ -113,7 +113,7 @@ jobs:
     needs: build  # This job runs after the 'build' job
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Deploy to Production
         run: |
