@@ -4,21 +4,20 @@
 ![Last Commit](https://img.shields.io/github/last-commit/canstralian/Canstralian)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-API-yellow?logo=huggingface)]([https://huggingface.co/](https://huggingface.co/S-Dreamer))  
-  
+
 
 I’m Canstralian, a dedicated developer and cybersecurity enthusiast focused on
 
 ---
 
 #### Projects
-- **ReconNinja**: A powerful penetration testing tool for reconnaissance, enumeration, monitoring, and automation in cybersecurity workflows.
-- **CySec Known Exploit Analyzer**: A Hugging Face-based model for analyzing known cybersecurity exploits, supporting penetration testing and mitigation strategies.
-- **ADHDpro**: An AI-powered executive function assistant designed to enhance productivity through intelligent task management and cognitive augmentation.
-- **Mizar Volatility Trading Bot**: A cryptocurrency trading bot leveraging market volatility to optimize trading strategies.
-- **Ransomware Data Visualization**: A project aimed at collecting and visualizing ransomware data to identify and analyze emerging threats.
-- **ZeroDay Hunter**: An AI-driven tool for detecting and analyzing zero-day vulnerabilities in software systems.
-- **Blockchain Forensics**: A project focused on tracking and analyzing suspicious activities on blockchain networks.
-- **IoT Security Suite**: A comprehensive suite of tools for securing IoT devices and networks against various cyber threats.
+- **AI-Powered Threat Detection**: Leveraging machine learning to identify and mitigate cyber threats in real-time.
+- **Cloud Security Framework**: A comprehensive framework for securing cloud infrastructures against various cyber attacks.
+- **Cyber Threat Intelligence Platform**: A platform for gathering, analyzing, and sharing threat intelligence data.
+- **Automated Penetration Testing Suite**: A suite of tools for automating penetration testing processes.
+- **Next-Gen Firewall Application**: A firewall application designed to provide advanced threat protection and network security.
+- **IoT Device Security Enhancer**: Tools and strategies for enhancing the security of IoT devices.
+- **Blockchain Fraud Detection System**: Analyzing blockchain transactions to detect and prevent fraudulent activities.
 
 ---
 
