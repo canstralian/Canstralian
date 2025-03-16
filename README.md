@@ -1,10 +1,10 @@
 ### Welcome to My Corner of Code 👾
 
-![CI](https://github.com/canstralian/Canstralian/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://codecov.io/gh/canstralian/Canstralian/branch/main/graph/badge.svg)
 ![License](https://img.shields.io/github/license/canstralian/Canstralian)
 ![Last Commit](https://img.shields.io/github/last-commit/canstralian/Canstralian)
-![Version](https://img.shields.io/github/v/release/canstralian/Canstralian)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-API-yellow?logo=huggingface)]([https://huggingface.co/](https://huggingface.co/S-Dreamer))  
+  
 
 I’m Canstralian, a dedicated developer and cybersecurity enthusiast focused on
 
