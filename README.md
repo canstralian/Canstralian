@@ -32,7 +32,7 @@ stack = {
 
 -----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=canstralian&show_icons=true&theme=dark&hide_border=true)
 
 ```
 ---
