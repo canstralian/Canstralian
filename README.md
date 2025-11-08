@@ -1,52 +1,122 @@
+-----
+# Canstralian
+
+Full-stack. Hardware to cloud. Offense to defense.
+
+## Build
+
+FastAPI backends. PostgreSQL persistence. Edge ML on Raspberry Pi and ESP32. Security automation from CTF research. React frontends when needed.
+
+Systems that optimize themselves: vulnerability detection → automated remediation. Performance metrics → parameter adjustment. Security threats → defensive adaptation.
+
+Zero Trust from hardware isolation through API authentication. Closed-loop feedback. Full vertical control.
+
+## Projects
+
+[HackBox Mini](link) - Portable AI security lab  
+[DevSec-AIOps](link) - Self-healing security automation  
+[CodeTuneStudio](link) - AI code optimization  
+[Red-Team MCP](link) - Offensive security + AI  
+
+## Stack
+
+```python
+stack = {
+    "backend": ["FastAPI", "Python", "PostgreSQL"],
+    "edge": ["Raspberry Pi", "ESP32", "PyTorch", "TensorFlow"],
+    "security": ["Kali", "Parrot OS", "Zero Trust"],
+    "frontend": ["React"],
+    "pattern": "Full-stack vertical control"
+}
+```
+
+-----
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
+
+```
 ---
 
-### Welcome to My Corner of Code
+## Deployment Steps
 
-![License](https://img.shields.io/github/license/canstralian/Canstralian)
-![Last Commit](https://img.shields.io/github/last-commit/canstralian/Canstralian)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)  
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-API-yellow?logo=huggingface)](https://huggingface.co/S-Dreamer)
+### 1. Create Profile Repository
 
-Hi there! I'm Canstralian, a passionate developer and cybersecurity enthusiast at the forefront of integrating AI with cybersecurity solutions. My mission is to bridge the gap between advanced AI technologies and robust cybersecurity measures to create innovative and secure digital solutions.
+```bash
+# Navigate to GitHub
+# Click "New Repository"
+# Repository name: Canstralian (must match your username exactly)
+# Description: (leave blank or add brief description)
+# Public repository
+# Initialize with README: Yes
+```
 
----
+### 2. Customize Content
 
-#### Current Projects
+**Required replacements**:
 
-- **AI-Driven Cyber Threat Detection**: Developing machine learning models to proactively identify and counteract emerging cyber threats, staying ahead of AI-powered cybercriminals.
+```markdown
+# Replace project links
+[HackBox Mini](https://github.com/Canstralian/hackbox-mini)
+[DevSec-AIOps](https://github.com/Canstralian/devsec-aiops)
+[CodeTuneStudio](https://github.com/Canstralian/codetunestudio)
+[Red-Team MCP](https://github.com/Canstralian/redteam-mcp)
 
-- **Cloud Security Enhancement Framework**: Creating a comprehensive framework to fortify cloud infrastructures, addressing the increasing need for cloud security as more organizations adopt cloud-first strategies.
+# Replace stats widget
+![Stats](https://github-readme-stats.vercel.app/api?username=Canstralian&show_icons=true&theme=dark&hide_border=true)
 
-- **Cyber Threat Intelligence Platform**: Building a platform that aggregates, analyzes, and disseminates threat intelligence, empowering organizations to make informed security decisions.
+# Replace contact
+## Contact
+email@domain.com | [Twitter](link) | [Discord](link)
+```
 
-- **Automated Penetration Testing Suite**: Designing tools to automate penetration testing, enabling efficient identification of vulnerabilities in systems and networks.
+### 3. Optional Stat Widget Themes
 
-- **Next-Gen Firewall Application**: Developing an advanced firewall application that leverages AI to provide dynamic and adaptive threat protection.
+**If you want different aesthetic**:
 
-- **IoT Device Security Enhancer**: Creating solutions to bolster the security of IoT devices, addressing the unique challenges posed by the proliferation of connected devices.
+```markdown
+# Dark minimal (current)
+theme=dark
 
-- **Blockchain Fraud Detection System**: Utilizing AI to analyze blockchain transactions, aiming to detect and prevent fraudulent activities in real-time.
+# Cyberpunk
+theme=synthwave
 
----
+# Terminal green
+theme=merko
 
-#### Skills & Expertise
+# High contrast
+theme=highcontrast
 
-- **Programming Languages**: Python, JavaScript, PowerShell, Bash
+# Dracula
+theme=dracula
 
-- **Frameworks & Tools**: Hugging Face, Gradio, Flask, Cement, LangChain, Docker, Scapy, Mizar, Git
+# One Dark (VSCode)
+theme=onedark
+```
 
-- **Specializations**: Ethical Hacking, AI-Driven Cybersecurity, Cloud Security, IoT Security, Blockchain Technology
+**Apply theme**:
 
----
+```markdown
+![Stats](https://github-readme-stats.vercel.app/api?username=Canstralian&show_icons=true&theme=THEMENAME&hide_border=true)
+```
 
-#### Fun Facts
+### 4. Additional Widgets (Optional)
 
-- I'm deeply involved in ethical hacking, continuously exploring ways to outsmart cyber threats and enhance security measures.
+**Language breakdown**:
 
-- A lifelong learner, I'm currently pursuing advanced cybersecurity certifications to further deepen my expertise.
+```markdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Canstralian&layout=compact&theme=dark&hide_border=true)
+```
 
----
+**Contribution streak**:
 
-Feel free to [reach out](mailto:distortedprojection@gmail.com) if you're interested in collaborating or discussing innovations in cybersecurity and AI.
+```markdown
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Canstralian&theme=dark&hide_border=true)
+```
 
---- 
+**Activity graph**:
+
+```markdown
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Canstralian&theme=react-dark)](https://github.com/Canstralian)
+```
+
+-----
