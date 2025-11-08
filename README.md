@@ -66,7 +66,7 @@ stack = {
 
 # Replace contact
 ## Contact
-email@domain.com | [Twitter](link) | [Discord](link)
+rbf.311@gmail.com | [Twitter](link) | [Discord](link)
 ```
 
 ### 3. Optional Stat Widget Themes
